@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton';
+}
+
+ul, li {;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-left: 216px;
+    margin-right: 216px;
+}
+
+.header {
+    background: url(/img/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    color: white;
+    display: flex;
+}
+
+.tel {
+    text-decoration: none;
+    color: white;
+    margin-left: auto;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-right: 40px;
+    text-transform: uppercase;
+}
+
+.tel a {
+    text-decoration: none;
+}
+
+.logo {
+    margin-right: 40px;
+}
+
+.btn-1 {
+    text-decoration: none;
+    color: white;
+    margin-left: auto;
+}
+
+.info {
+    color: white;
+    text-transform: uppercase;
+    margin-top: 229px;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+    border: white solid 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.text1 {
+    font-size: 30px;
+}
+
+.text2 {
+    font-size: 100px;
+}
+
+.btn {
+    font-size: 17px;
+    margin-top: 322px;
+}
